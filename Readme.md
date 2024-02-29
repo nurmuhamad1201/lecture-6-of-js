@@ -1,6 +1,7 @@
 # Js lecture 6
 ## Theme 1. - object
-![подпись](https://static.vecteezy.com/system/resources/previews/002/767/705/original/js-logo-letter-initial-logo-designs-template-free-vector.jpg)
+![подпись](https://miro.medium.com/v2/resize:fit:700/0*1-GpzIUp7bgbDl6X.jpeg)
+
 ## - Destructuring
 ## 3. - sPREAD AND THIS
 __Салом алейкум, бачахо ва духтаракои хуб! Мо дар ин лисия дар бораи объект чист ва чанд методҳои дар боло дидаатон маълумот медиҳам.__
@@ -8,6 +9,7 @@ __Hello, good boys and girls! In this lesson, I will tell you about what the obj
 *RAFTEM*
 
 ## [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects)-  набор СВОЙСТВА 
+![подпись](https://www.freecodecamp.org/news/content/images/2021/02/destructure.png)
 ### Ай,"array" чӣ фарқ дорад?-Дар массив (array), элементҳо бо индексҳо дар мавод фарз карда мешаванд, дар ҳолати ки дар объект (object), элементҳо бо калидҳо (keys) фарyod карда мешаванд.
 ##### primeri odi
 ```javascript
